@@ -13,3 +13,7 @@ var myVar = "Hello, world!";
 ``` c
 int x = 0;
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
